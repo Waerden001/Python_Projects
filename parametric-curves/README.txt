@@ -1,1 +1,1 @@
-This is a python project to plost parametric curves and save them as .PNG files.
+This is a python project to plot parametric curves and save them as .PNG files.
