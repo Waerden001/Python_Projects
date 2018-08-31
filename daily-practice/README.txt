@@ -1,0 +1,1 @@
+A batch file to recommend random scales, chords and songs for daily guitar practice.
